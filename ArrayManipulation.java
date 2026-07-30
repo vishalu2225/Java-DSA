@@ -153,7 +153,7 @@ public class ArrayManipulation
                          6  -> 4*/
 
         int ans=getMode(arr3);
-        System.out.println(ans);//6
+        System.out.println(ans);//6 - answer
 
         int[] ans1 = getHighLowFreqEle(arr3);
 
